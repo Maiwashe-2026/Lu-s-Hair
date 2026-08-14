@@ -26,5 +26,5 @@ The website created would have structured, functionality-driving pages aimed to 
 4.	Week 5: Launch and marketing rollout.
 ## Referencing
 1.	https://www.canva.com/templates/EAGSXhl06RU/
-2.ttps://github.com/Maiwashe-2026/Lu-s-Hair	
+2. ttps://github.com/Maiwashe-2026/Lu-s-Hair	
 
