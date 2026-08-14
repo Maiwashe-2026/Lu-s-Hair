@@ -1,5 +1,4 @@
 # Luu's Hair
-## Student information
-### ST10512786 Pfunzo
+## Pfunzo Maiwashe ST10512786 DISD0601
 ## References
 Chapter author(s) (Year) ‘Title of chapter’, in Editor(s) (ed./eds) Title of book. Edition. Publisher, page numbers.
