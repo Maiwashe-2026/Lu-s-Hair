@@ -19,5 +19,10 @@ The success of Luu’s Hair’s website will be measured through a set of key pe
 ## Proposed Website Features and Functionality
 The website created would have structured, functionality-driving pages aimed to reflect luxury while catering for customer needs. Features: Home page The hero banner- to capture the customers in one-screen and showcase the core brand. Highlighted products- featuring top sellers. 
  About Us page - showcase the brand’s narrative, mission and values and introduce to the founder. Products page- showcase excellent photography for luxury products, prices, brief descriptions and filters such as length, lace-type and density to aid customers to make an informed purchase. Enquiry page - Form to customize an order from our website. Contact page- Showcase multiple shop details with an integrated map as well as forms for easy inquiry.
+## Timeline and Milestones
+•	Week 1: Research, planning, and content sourcing.
+•	Week 2–3: Website design and development.
+•	Week 4: Testing, debugging, and refinement.
+•	Week 5: Launch and marketing rollout.
 
 Chapter author(s) (Year) ‘Title of chapter’, in Editor(s) (ed./eds) Title of book. Edition. Publisher, page numbers.
