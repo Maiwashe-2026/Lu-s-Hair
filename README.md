@@ -24,7 +24,7 @@ The website created would have structured, functionality-driving pages aimed to 
 2.	Week 2–3: Website design and development.
 3.	Week 4: Testing, debugging, and refinement.
 4.	Week 5: Launch and marketing rollout.
-## referencing
+## Referencing
 1.	GitHub Repository Link (placeholder): https://github.com/your-username/lus-hair-website (github.com in Bing)
 2. HTML Website Link (placeholder): https://www.lushair.co.za/index.html
 
